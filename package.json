@@ -21,7 +21,6 @@
     "example": "yarn --cwd example",
     "pods": "cd example && pod-install --quiet",
     "bootstrap": "yarn example && yarn && yarn pods",
-    "preinstall": "node preinstall.js"
   },
   "keywords": [
     "react-native",
